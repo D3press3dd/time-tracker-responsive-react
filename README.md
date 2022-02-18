@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/social-media-dashboard-with-theme-using-bem-and-vanilla-js-DhtHrMEil)
-- Live Site URL: [Live preview](https://social-dashboard-anthony-rosman.netlify.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/time-tracker-responsive-with-react-I7bEy2YlZ)
+- Live Site URL: [Live preview](https://time-tracker-react-anthonyrosman.netlify.app/)
 
 ## My process
 
